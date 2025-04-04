@@ -1,7 +1,7 @@
 Fake News Detection Project :
     ISOT Fake News Dataset
 
-Rsults : 
+Results : 
 ![proj_image](images/news_subject.png)
 
 
