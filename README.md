@@ -15,6 +15,8 @@ Results :
 
 ![proj_image](images/fake_dense.png)
 
+![proj_image](images/true_dense.png)
+
 ![proj_image](images/timeline.png)
 
 GRU + Glove Embedding : 
